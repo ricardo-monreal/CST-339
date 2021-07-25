@@ -3190,3 +3190,11 @@
 2021-07-24 23:17:56,818 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-24 23:17:56,818 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-07-24 23:17:56,818 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dev\workspaceCST-339\topic2-2\src\test\resources
+2021-07-25 10:28:13,696 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-07-25 10:28:21,807 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 10:28:21,807 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-25 10:28:21,816 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-07-25 10:28:21,902 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-07-25 10:28:21,946 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-07-25 10:28:21,946 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-07-25 10:28:21,947 [Worker-10: Launching topic2-2 - Topic22Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dev\workspaceCST-339\topic2-2\src\test\resources
