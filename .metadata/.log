@@ -6019,3 +6019,111 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:24:12.567
 !MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:28.153
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:28.166
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:28.176
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-2 false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:28.177
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:28.238
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:31.671
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:31.681
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:31.690
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-2 false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:31.691
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 18:35:31.731
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-07-24 18:37:25.392
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.jface 2 0 2021-07-24 18:38:01.085
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-07-24 18:38:01.085
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7b7e07f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2fe26d67,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:07:54.101
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:07:54.140
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:07:54.149
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-1 false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:07:54.152
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:07:54.366
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:10:47.013
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:10:47.015
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:10:47.016
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:10:47.031
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:11:50.129
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:11:50.136
+!MESSAGE classpath=73 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:11:50.140
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-1 false 73
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:11:50.141
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:11:50.167
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:14:28.657
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:14:28.658
+!MESSAGE buffering callback sts4.classpath.ToGRNTrt topic2-1 true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:14:28.659
+!MESSAGE executing callback sts4.classpath.ToGRNTrt 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 19:14:28.663
+!MESSAGE executing callback sts4.classpath.ToGRNTrt SUCCESS [done]
