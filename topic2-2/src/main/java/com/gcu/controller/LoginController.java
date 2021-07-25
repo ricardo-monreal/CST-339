@@ -57,7 +57,7 @@ public class LoginController {
 		
 		
 		// display the Orders view
-		model.addAttribute("title", "My Oders");
+		model.addAttribute("title", "My Orders");
 		model.addAttribute("orders", orders);
 		return "orders";
 	}
