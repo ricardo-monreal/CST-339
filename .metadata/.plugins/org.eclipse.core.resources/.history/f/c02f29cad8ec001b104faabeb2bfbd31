@@ -1,0 +1,15 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+</head>
+<body>
+	<h2>Test Message</h2>
+	<table style="width: 50%;">
+		<tr>
+			<th style="text-align: center;">Order Number</th>
+	
+	
+</body>
+
+
+</html>
