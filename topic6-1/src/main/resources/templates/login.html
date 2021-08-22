@@ -1,0 +1,41 @@
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" layout:decorate="layouts/defaultTemplate">
+
+<head>
+</head>
+<body>
+	<div layout:fragment="content">
+	
+		<div th:if="${param.error}">
+			<span style="color: red;">Invalid User Name or Password!</span>
+			
+		</div>
+		<br>
+
+		<form th:action="@{/login}" method="POST">
+			<table>
+				<tr>
+					<!--<td>User Name:</td><td><input type="text" th:field="*{username}" ></td><td><p style="color: red;" th:if="${#fields.hasErrors('username')}" th:errors="*{username}">User Name error</p></td>-->
+					<td style="padding:5px">User Name:</td><td style="padding:5px"><input type="text" name="username" id="username" placeholder="UserName" required/></td>
+				</tr>
+				<tr>
+					<!--<td>Password:</td><td><input type="password" th:field="*{password}" ></td><td><p style="color: red;" th:if="${#fields.hasErrors('password')}" th:errors="*{password}">Password error</p></td>-->
+					<td style="padding:5px">Password:</td><td style="padding:5px"><input type="password" name="password" id="password" placeholder="Password" required/></td>
+
+				</tr>
+				<tr>
+					<td colspan="2" align="center"><input type="submit" value="Submit"/></td>
+				</tr>
+			</table>
+			<!--<div th:if="${#fields.hasErrors('*')}">List of Errors</div> 
+			<div th:each="err : ${#fields.errors('*')}">
+				<span style="color: red;" th:text="${err}" class="fieldErrors"></span>
+			</div>-->
+				
+				
+			
+		</form>
+	</div>
+</body>
+
+
+</html>
