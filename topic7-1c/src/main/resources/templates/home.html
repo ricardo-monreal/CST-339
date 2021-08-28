@@ -1,0 +1,26 @@
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" layout:decorate="layouts/defaultTemplate">
+
+<head>
+	<title th:text="${pageTitle}">My Home</title>
+</head>
+<body>
+	<div layout:fragment="content">
+	
+	
+		<div class="container text-center">
+		
+			<h3>Welcome!</h3>
+			<a href="/app/getusers" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Show Users</a>
+			<a href="/app/getorders" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Show Orders</a>
+		
+		</div>
+		
+		
+	
+	
+	
+	</div>
+</body>
+
+
+</html>
